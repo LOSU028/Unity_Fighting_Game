@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy_Player2
+  - Enemy_Player1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3305606451
+    locked: 0
+  - name: Decors
+    uniqueID: 3479063399
+    locked: 0
+  - name: Platforms
+    uniqueID: 3106279179
+    locked: 0
+  - name: 'Player '
+    uniqueID: 1495307481
+    locked: 0
+  - name: 'Grass '
+    uniqueID: 742457441
+    locked: 0
